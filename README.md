@@ -5,5 +5,6 @@
 - 📫 How to reach me? Email: siqi5162@gmail.com
 
 <!---
-BirdyLiu6471023/BirdyLiu6471023 is a ✨ special ✨ repository. Love U!
+BirdyLiu6471023 is a ✨ special ✨ repository for Birdy. Love U!
+More Repos would be released if allowed... Thanks!
 --->
