@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BirdyLiu6471023
 - 👀 I’m interested in mathmatics, statistics, technology, genomics and sci-fiction.
-- 🌱 I’m currently learning programing and being a good data scientist.
 - 💞️ I’m looking to collaborate on projects related to data science, deep learning, machine learning...
 - 📫 How to reach me? Email: birdy5247@gmail.com
 
